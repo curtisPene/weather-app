@@ -1,11 +1,3 @@
-// console.log("Javascript file loaded!");
-
-// fetch("https://puzzle.mead.io/puzzle").then((response) => {
-//   response.json().then((data) => {
-//     console.log(data);
-//   });
-// });
-
 const form = document.querySelector("form");
 const searchInput = document.querySelector("input");
 const message1 = document.getElementById("message-1");
