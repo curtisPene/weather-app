@@ -17,11 +17,3 @@ form.addEventListener("submit", (e) => {
     });
   });
 });
-
-// window.addEventListener("mousemove", (e) => {
-//   console.log(e.clientX, e.clientY);
-// });
-
-window.addEventListener("scroll", (e) => {
-  console.log(window.screen.top);
-});
